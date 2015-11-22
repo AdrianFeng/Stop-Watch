@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\lab3\stopwatch\stopwatch.ncd
+OUTFILE=E:\lab3\stopwatch\stopwatch.bit
+FAMILY=Spartan6
+PART=xc6slx16-3ncsg324
+WORKINGDIR=E:\lab3\stopwatch
+LICENSE=ISE
+USER_INFO=203015155_203016297_210565169_549

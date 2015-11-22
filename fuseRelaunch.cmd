@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "H:/usb/2015 fall/cs152/lab3/stopwatch/tb_isim_beh.exe" -prj "H:/usb/2015 fall/cs152/lab3/stopwatch/tb_beh.prj" "work.tb" "work.glbl" 
